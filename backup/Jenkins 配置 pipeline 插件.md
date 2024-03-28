@@ -40,7 +40,9 @@
 ## 第7步：验证安装
 
 重新登录Jenkins后，您可以创建一个新的任务，并查看是否能够选择Pipeline类型的项目，以验证插件是否安装成功。
+![image](https://github.com/R2vix/Raven.github.io/assets/162585942/5abb436c-c8a5-4db1-8eef-f011e3897383)
 
 ## 总结
 
 现在您已经成功安装了Pipeline插件，在Jenkins中可以利用Pipeline来优化您的CI/CD流程。您可以开始创建您的第一个Pipeline项目，实现更自动化、高效的构建和部署过程。
+
