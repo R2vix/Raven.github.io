@@ -46,3 +46,6 @@
 
 现在您已经成功安装了Pipeline插件，在Jenkins中可以利用Pipeline来优化您的CI/CD流程。您可以开始创建您的第一个Pipeline项目，实现更自动化、高效的构建和部署过程。
 
+
+## 注意
+如果安装完创建Job的时候还是没有Pipeline的选项，请确保经Jenkins和Pipeline插件已经升级到最新版本 
